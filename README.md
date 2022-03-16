@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/MdNoor786/ShasaBot/stargazers"><img src="https://img.shields.io/github/stars/MdNoor786/ShasaBot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/Dushsmanxroni/ShasaBot/stargazers"><img src="https://img.shields.io/github/stars/Dushsmanxroni/ShasaBot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
     <a href="https://github.com/MdNoor786/ShasaBot"> <img src="https://img.shields.io/github/repo-size/MdNoor786/ShasaBot-1?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
